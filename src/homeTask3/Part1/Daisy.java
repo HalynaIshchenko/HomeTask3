@@ -1,16 +1,16 @@
-package homeTask3;
+package homeTask3.Part1;
 
-public class Aster extends Flower{
-    public Aster(){
+public class Daisy extends Flower {
+    public Daisy(){
         super();
-        super.price = 11;
-        super.color = "violet";
+        super.price = 14;
+        super.color = "white";
 
     }
 
     @Override
     public String toString() {
-        return "Aster{" +
+        return "Daisy{" +
                 "color='" + color + '\'' +
                 ", price=" + price +
                 '}';

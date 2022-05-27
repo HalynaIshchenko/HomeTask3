@@ -1,4 +1,4 @@
-package homeTask3;
+package homeTask3.Part1;
 
 public abstract class Flower {
     protected String color;

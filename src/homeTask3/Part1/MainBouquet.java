@@ -1,4 +1,4 @@
-package homeTask3;
+package homeTask3.Part1;
 
 public class MainBouquet {
     public static void main(String[] args) {

@@ -1,4 +1,6 @@
-package homeTask3;
+package homeTask3.Part1;
+
+import homeTask3.Part1.Flower;
 
 public class Peony extends Flower {
     public Peony(){

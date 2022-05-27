@@ -1,4 +1,4 @@
-package homeTask3;
+package homeTask3.Part1;
 
 import java.util.ArrayList;
 import java.util.List;
