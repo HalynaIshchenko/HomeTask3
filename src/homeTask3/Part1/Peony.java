@@ -1,13 +1,10 @@
 package homeTask3.Part1;
 
-import homeTask3.Part1.Flower;
-
 public class Peony extends Flower {
-    public Peony(){
-        super();
-        super.price = 12;
-        super.color = "pink";
 
+
+    public Peony(String color, int price) {
+        super(color, price);
     }
 
     @Override

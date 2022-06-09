@@ -1,11 +1,10 @@
 package homeTask3.Part1;
 
 public class Aster extends Flower {
-    public Aster(){
-        super();
-        super.price = 11;
-        super.color = "violet";
 
+
+    public Aster(String color, int price) {
+        super(color, price);
     }
 
     @Override
